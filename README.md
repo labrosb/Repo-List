@@ -12,4 +12,4 @@ A simple app that presents a list of react related GitHub repositories, consumin
 
 ## Run
 - To run the app, execute `npm run start`.
-- To run the tests, execute `npm run test`.
+- To run the tests, execute `npm run test`. 
